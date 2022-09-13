@@ -13,3 +13,6 @@ https://docs.google.com/document/d/1rM8_AenmUscWydm1IPwINtOhXRDvxs4sMa4jqaT9b4Y/
 
 Скрины Internet_shop 12.09.2022
 https://docs.google.com/document/d/1Dj8RRmEukIBFRC98bFs7ITn1LCUW8P0n-IW03bywfkA/edit?usp=drivesdk
+
+Фото ZOO_MARKET от 13.09.2022 (работа в классе)
+https://docs.google.com/document/d/1xSa0sWZ8NofIVolmXWuL-wRPeXh_71Q_KdmSA9VbHVo/edit?usp=sharing
