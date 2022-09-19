@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1Dj8RRmEukIBFRC98bFs7ITn1LCUW8P0n-IW03bywfkA/
 
 Фото ZOO_MARKET от 13.09.2022 (работа в классе)
 https://docs.google.com/document/d/1xSa0sWZ8NofIVolmXWuL-wRPeXh_71Q_KdmSA9VbHVo/edit?usp=sharing
+
+Таблица в экзеле на БД Обучение в колледже (студенты) 19.09.2022
+https://docs.google.com/spreadsheets/d/1i7ainDba68KEjzoH-dJrM3T-71SGwOs_/edit?usp=sharing&ouid=114987831998259542559&rtpof=true&sd=true
