@@ -1,8 +1,8 @@
 # Data-Base
-Конспект лекция и Stepik
+Конспекты лекций, stepic; самостоятельные работы.
 https://docs.google.com/document/d/1IkxDszBIiL9OezNnG2lnloYrx5Nylzx7_i7Cai4s8Ro/edit?usp=drivesdk 
 
-Sepic скрины 2.1
+Stepic скрины 2.1
 https://docs.google.com/document/d/1MLGmt42uzjqsj6QGYJEUKmXM3PdlPlidgAd_AZBAAUY/edit?usp=drivesdk
 
 скрины БД Book_store
