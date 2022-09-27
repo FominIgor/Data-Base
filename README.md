@@ -22,3 +22,6 @@ https://docs.google.com/spreadsheets/d/1i7ainDba68KEjzoH-dJrM3T-71SGwOs_/edit?us
 
 Er-диограммы БД студенты
 https://docs.google.com/document/d/1oAdafmhvHsL1TbgCZTUgcNlsbKsCSVtJKkkDcZ7fFx8/edit?usp=drivesdk
+
+Скрины запросов в БД студенты 27.09.2022
+https://docs.google.com/document/d/1X_GiBg-993IKiJosXXOYr2Jjje6JjNVoM8aTFgpVVMc/edit?usp=drivesdk
