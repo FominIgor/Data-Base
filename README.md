@@ -25,3 +25,6 @@ https://docs.google.com/document/d/1oAdafmhvHsL1TbgCZTUgcNlsbKsCSVtJKkkDcZ7fFx8/
 
 Скрины запросов в БД студенты 27.09.2022
 https://docs.google.com/document/d/1X_GiBg-993IKiJosXXOYr2Jjje6JjNVoM8aTFgpVVMc/edit?usp=drivesdk
+
+БД туры 28.09.2022
+https://docs.google.com/document/d/157Q_LEyHUSzcmnrD_751qkEaxW4cnlJ2DCQ65S52veA/edit?usp=drivesdk 
