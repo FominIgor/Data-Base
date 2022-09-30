@@ -28,3 +28,6 @@ https://docs.google.com/document/d/1X_GiBg-993IKiJosXXOYr2Jjje6JjNVoM8aTFgpVVMc/
 
 БД туры 28.09.2022
 https://docs.google.com/document/d/157Q_LEyHUSzcmnrD_751qkEaxW4cnlJ2DCQ65S52veA/edit?usp=drivesdk 
+
+Скрины STEPIK 30.09.2022
+https://docs.google.com/document/d/18PLVE8YzxKOQLVlb37juCRQmCvEPVjaqZjCYY8VwxHU/edit?usp=drivesdk
