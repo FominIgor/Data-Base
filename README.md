@@ -31,3 +31,6 @@ https://docs.google.com/document/d/157Q_LEyHUSzcmnrD_751qkEaxW4cnlJ2DCQ65S52veA/
 
 Скрины STEPIK 30.09.2022
 https://docs.google.com/document/d/18PLVE8YzxKOQLVlb37juCRQmCvEPVjaqZjCYY8VwxHU/edit?usp=drivesdk
+
+Ссылка на практическую работу (видео создание БД) 5.10.22
+https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sharing
