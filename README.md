@@ -34,3 +34,6 @@ https://docs.google.com/document/d/18PLVE8YzxKOQLVlb37juCRQmCvEPVjaqZjCYY8VwxHU/
 
 Ссылка на практическую работу (видео создание БД) 5.10.22
 https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sharing
+
+Ссылка на БД фитнес (Er-диограма, скрины запросов, скрины готовой БД)
+https://drive.google.com/drive/folders/1Z8oKtboi14Dpf5RUesTuUBFB7GME6_Qm?usp=sharing
