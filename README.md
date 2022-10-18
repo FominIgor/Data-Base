@@ -37,3 +37,6 @@ https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sha
 
 Ссылка на БД фитнес (Er-диограма, скрины запросов, скрины готовой БД)
 https://drive.google.com/drive/folders/1Z8oKtboi14Dpf5RUesTuUBFB7GME6_Qm?usp=sharing
+
+Зачёт БД 18.10.2022
+https://docs.google.com/document/d/19qSpRBv6-zDL6mp5So2doho22-M_yQ-pnkTBj_-f_BA/edit?usp=drivesdk
