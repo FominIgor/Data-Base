@@ -40,3 +40,6 @@ https://drive.google.com/drive/folders/1Z8oKtboi14Dpf5RUesTuUBFB7GME6_Qm?usp=sha
 
 Зачёт БД 18.10.2022
 https://docs.google.com/document/d/19qSpRBv6-zDL6mp5So2doho22-M_yQ-pnkTBj_-f_BA/edit?usp=drivesdk
+
+Запросы на выборку
+https://docs.google.com/document/d/1mpyFpe-1Tk6XJFnxkswdnU4ZS2o_kytspt2UQBDbOMg/edit?usp=drivesdk
