@@ -43,3 +43,6 @@ https://docs.google.com/document/d/19qSpRBv6-zDL6mp5So2doho22-M_yQ-pnkTBj_-f_BA/
 
 Запросы на выборку
 https://docs.google.com/document/d/1mpyFpe-1Tk6XJFnxkswdnU4ZS2o_kytspt2UQBDbOMg/edit?usp=drivesdk
+
+ххх
+https://docs.google.com/spreadsheets/d/1eFdvq3iBjEwMMyj9n1zmgdfSVO_EYPPF/edit?usp=share_link&ouid=115655321341216663504&rtpof=true&sd=true
