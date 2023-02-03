@@ -46,3 +46,6 @@ https://docs.google.com/document/d/1mpyFpe-1Tk6XJFnxkswdnU4ZS2o_kytspt2UQBDbOMg/
 
 ххх
 https://docs.google.com/spreadsheets/d/1eFdvq3iBjEwMMyj9n1zmgdfSVO_EYPPF/edit?usp=share_link&ouid=115655321341216663504&rtpof=true&sd=true
+
+Степик
+https://docs.google.com/document/d/14c0tXy6Ht14a9gG7ufRooQqTmtSzvcxTcWGXtBe7Rwk/edit?usp=sharing 
