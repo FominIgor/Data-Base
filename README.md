@@ -49,3 +49,6 @@ https://docs.google.com/spreadsheets/d/1eFdvq3iBjEwMMyj9n1zmgdfSVO_EYPPF/edit?us
 
 Степик
 https://docs.google.com/document/d/14c0tXy6Ht14a9gG7ufRooQqTmtSzvcxTcWGXtBe7Rwk/edit?usp=sharing 
+
+Глазки сейв убунта 
+https://docs.google.com/document/d/18pwkM-KbWHxDg3QIQHRuMtJeLwmUTiDH5mkd-t2lJDY/edit?usp=sharing
