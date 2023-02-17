@@ -52,3 +52,6 @@ https://docs.google.com/document/d/14c0tXy6Ht14a9gG7ufRooQqTmtSzvcxTcWGXtBe7Rwk/
 
 Глазки сейв убунта 
 https://docs.google.com/document/d/18pwkM-KbWHxDg3QIQHRuMtJeLwmUTiDH5mkd-t2lJDY/edit?usp=sharing
+
+SQLmap
+https://docs.google.com/document/d/1kXRSSYyn4M8yfEI6JfqMZtAaHr051HSaQ2zautC-lD8/edit?usp=sharing
