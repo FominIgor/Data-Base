@@ -55,3 +55,6 @@ https://docs.google.com/document/d/18pwkM-KbWHxDg3QIQHRuMtJeLwmUTiDH5mkd-t2lJDY/
 
 SQLmap
 https://docs.google.com/document/d/1kXRSSYyn4M8yfEI6JfqMZtAaHr051HSaQ2zautC-lD8/edit?usp=sharing
+
+Pyqt5
+https://drive.google.com/drive/folders/1D0V2A6m60VQgffA5C792-g924gi2xq1N
