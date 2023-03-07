@@ -61,3 +61,6 @@ https://drive.google.com/drive/folders/1D0V2A6m60VQgffA5C792-g924gi2xq1N
 
 Инструкция
 https://drive.google.com/drive/folders/15w2e5AAuOKsMOITlmbUhM7n03L-vjVw-
+
+Авторсервис 
+https://drive.google.com/drive/folders/13IZIem8WFdXFVhWiXp37rtElk2lRxHlh?usp=share_link
